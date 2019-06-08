@@ -1,0 +1,216 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [:react-native-gesture-handler] /Users/stellent/Documents/Sample/SampleTask/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/stellent/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/84145ef302867fc8bcb0c527bf4d19c1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/38e1e4c185140b038d5fcfb0e61084e8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/c1364294fd572f96884735b57de68d10/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/a7cc46a280797867dd9ae90e7ed10477/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/d5ac00bf94de9c30ec3f8f7596b83ad3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/4360771c9911bd50e597c80290b51e34/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/042b1acb4e8b8464a75cd255100af40a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/2080df3fcf6835da3d2336f70d56d896/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/222ef9f4c43ca295d551e0697f385289/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e5ffb5d37d3ee4661492f7405d05d583/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/09d9497616191e7b435b56a60e75ef57/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/9b8ea6a61b3b409c68488437516ee65e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/efbe4481de1a840d0e71207840697b62/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/223c7ba394d15bc94c1a0512e3f2f8a2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9e9bc91ada0f54e1facf397749717f56/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3c1e7b54b6537117858ef23acbfc692b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/80b0ecdf8114cdc6b13e9d9637d7b3de/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/8515578c2fe98148a9f8a2d78d0ecf78/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/stellent/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/90aa327eb80c5896fa3d2aca60d55842/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/453187e607647557abfd840eb0e12375/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ed44d4d26fce5b69acf5a919025ed176/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/ba7fe5876474e5765597ca064240f2f2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/stellent/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5af48f24d7557b780c9a91bf2a0d61e5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/stellent/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/4baac6a6e5e961044364a0b787ee8bd0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/stellent/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/443d5cc06af368996711fb3bae2674ae/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/stellent/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/344caf7c1c9f1cc0c8c4012de56e0ecb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/63a3da08d1d95158eb8983d268bcecc7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/a0d7127d9feaeecc41d5c79cf101567b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/c4100f341435baa3d9d5c37dd6cbc86b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/e33e8aae4e4fb0a55323db3c623c6778/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/f66625e46a7ef1764ea5e2a05f874853/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/f52eb15d07027c37c164043559e3e395/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/a8f0951993a6f77ba85def2456605984/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/6716aa3e02f9663b72cb78e64ef2c95a/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml:2:3-27
+		INJECTED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml:2:3-27
+		INJECTED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/stellent/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/84145ef302867fc8bcb0c527bf4d19c1/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/stellent/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/84145ef302867fc8bcb0c527bf4d19c1/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3c1e7b54b6537117858ef23acbfc692b/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3c1e7b54b6537117858ef23acbfc692b/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/80b0ecdf8114cdc6b13e9d9637d7b3de/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/80b0ecdf8114cdc6b13e9d9637d7b3de/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/a8f0951993a6f77ba85def2456605984/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/a8f0951993a6f77ba85def2456605984/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3c1e7b54b6537117858ef23acbfc692b/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.sampletask.MainActivity
+ADDED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml:13:7-23:18
+	android:screenOrientation
+		ADDED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml:18:9-45
+	android:label
+		ADDED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] /Users/stellent/Documents/Sample/SampleTask/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/stellent/Documents/Sample/SampleTask/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/stellent/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/84145ef302867fc8bcb0c527bf4d19c1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/stellent/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/84145ef302867fc8bcb0c527bf4d19c1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/38e1e4c185140b038d5fcfb0e61084e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/38e1e4c185140b038d5fcfb0e61084e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/c1364294fd572f96884735b57de68d10/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/c1364294fd572f96884735b57de68d10/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/a7cc46a280797867dd9ae90e7ed10477/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/a7cc46a280797867dd9ae90e7ed10477/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/d5ac00bf94de9c30ec3f8f7596b83ad3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/d5ac00bf94de9c30ec3f8f7596b83ad3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/4360771c9911bd50e597c80290b51e34/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/4360771c9911bd50e597c80290b51e34/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/042b1acb4e8b8464a75cd255100af40a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/042b1acb4e8b8464a75cd255100af40a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/2080df3fcf6835da3d2336f70d56d896/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/2080df3fcf6835da3d2336f70d56d896/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/222ef9f4c43ca295d551e0697f385289/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/222ef9f4c43ca295d551e0697f385289/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e5ffb5d37d3ee4661492f7405d05d583/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e5ffb5d37d3ee4661492f7405d05d583/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/09d9497616191e7b435b56a60e75ef57/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/09d9497616191e7b435b56a60e75ef57/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/9b8ea6a61b3b409c68488437516ee65e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/9b8ea6a61b3b409c68488437516ee65e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/efbe4481de1a840d0e71207840697b62/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/efbe4481de1a840d0e71207840697b62/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/223c7ba394d15bc94c1a0512e3f2f8a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/223c7ba394d15bc94c1a0512e3f2f8a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9e9bc91ada0f54e1facf397749717f56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9e9bc91ada0f54e1facf397749717f56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3c1e7b54b6537117858ef23acbfc692b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3c1e7b54b6537117858ef23acbfc692b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/80b0ecdf8114cdc6b13e9d9637d7b3de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/80b0ecdf8114cdc6b13e9d9637d7b3de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/8515578c2fe98148a9f8a2d78d0ecf78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/8515578c2fe98148a9f8a2d78d0ecf78/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/stellent/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/90aa327eb80c5896fa3d2aca60d55842/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/stellent/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/90aa327eb80c5896fa3d2aca60d55842/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/453187e607647557abfd840eb0e12375/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/453187e607647557abfd840eb0e12375/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ed44d4d26fce5b69acf5a919025ed176/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ed44d4d26fce5b69acf5a919025ed176/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/ba7fe5876474e5765597ca064240f2f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/ba7fe5876474e5765597ca064240f2f2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/stellent/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5af48f24d7557b780c9a91bf2a0d61e5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/stellent/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5af48f24d7557b780c9a91bf2a0d61e5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/stellent/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/4baac6a6e5e961044364a0b787ee8bd0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/stellent/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/4baac6a6e5e961044364a0b787ee8bd0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/stellent/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/443d5cc06af368996711fb3bae2674ae/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/stellent/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/443d5cc06af368996711fb3bae2674ae/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/stellent/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/344caf7c1c9f1cc0c8c4012de56e0ecb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/stellent/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/344caf7c1c9f1cc0c8c4012de56e0ecb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/63a3da08d1d95158eb8983d268bcecc7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/63a3da08d1d95158eb8983d268bcecc7/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/a0d7127d9feaeecc41d5c79cf101567b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/a0d7127d9feaeecc41d5c79cf101567b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/c4100f341435baa3d9d5c37dd6cbc86b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/c4100f341435baa3d9d5c37dd6cbc86b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/e33e8aae4e4fb0a55323db3c623c6778/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/e33e8aae4e4fb0a55323db3c623c6778/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/f66625e46a7ef1764ea5e2a05f874853/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/f66625e46a7ef1764ea5e2a05f874853/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/f52eb15d07027c37c164043559e3e395/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/f52eb15d07027c37c164043559e3e395/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/a8f0951993a6f77ba85def2456605984/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/a8f0951993a6f77ba85def2456605984/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/6716aa3e02f9663b72cb78e64ef2c95a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/6716aa3e02f9663b72cb78e64ef2c95a/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/stellent/Documents/Sample/SampleTask/android/app/src/debug/AndroidManifest.xml:5:22-75
